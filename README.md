@@ -1,2 +1,2 @@
 # Encrypt
-Java Encrypt using ASCII
+Java Encryption using ASCII table
